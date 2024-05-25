@@ -10,4 +10,6 @@ numbersArr.forEach((el)=>{
     }
 })
 
-console.log(count)
+console.log(Object.values(count))
+
+console.log(Object.keys(count))
